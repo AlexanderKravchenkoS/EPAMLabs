@@ -1,7 +1,0 @@
-D:\Prog\EPAM\Lab3\Task2\bin\Debug\Task2.exe.config
-D:\Prog\EPAM\Lab3\Task2\bin\Debug\Task2.exe
-D:\Prog\EPAM\Lab3\Task2\bin\Debug\Task2.pdb
-D:\Prog\EPAM\Lab3\Task2\obj\Debug\Task2.csprojAssemblyReference.cache
-D:\Prog\EPAM\Lab3\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
-D:\Prog\EPAM\Lab3\Task2\obj\Debug\Task2.exe
-D:\Prog\EPAM\Lab3\Task2\obj\Debug\Task2.pdb
